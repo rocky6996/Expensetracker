@@ -30,10 +30,6 @@ Scan the QR code using the Expo Go app on your mobile device (iOS/Android).
 
 Run on an emulator/simulator directly from the command line or Expo Dev Tools UI.
 
-📁 Project Structure
-bash
-Copy
-Edit
 ExpenseTrackerApp/
 ├── assets/             # Images, icons, fonts, etc.
 ├── components/         # Reusable UI components (e.g., ExpenseItem, Header)
@@ -43,6 +39,7 @@ ExpenseTrackerApp/
 ├── App.js              # Entry point of the app
 ├── app.json            # Expo configuration
 └── package.json
+
 ✅ Features
 Here are the key features of the Expense Tracker App:
 
