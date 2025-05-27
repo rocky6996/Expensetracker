@@ -15,8 +15,8 @@ bash
 Copy
 Edit
 npm install
-# or using yarn:
-# yarn install
+ or using yarn:
+ yarn install
 ▶️ Running the App
 You can run the app using Expo Go on your mobile device or using an emulator.
 
